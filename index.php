@@ -17,7 +17,7 @@
 		<![endif]-->
 
 		<div class="main">
-			<span id="forkongithub"><a href="https://github.com/IanLunn/Hover">Fork me on GitHub</a></span>
+			<!-- <span id="forkongithub"><a href="https://github.com/IanLunn/Hover">Fork me on GitHub</a></span> -->
 
 			<h1>Hover.css <!-- <a href="https://github.com/IanLunn/Hover/releases" class="sup" title="View release history">v2</a> --></h1>
 
