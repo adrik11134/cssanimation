@@ -1,17 +1,12 @@
 # Hover.css
 
-[![Join the chat at https://gitter.im/IanLunn/Hover](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IanLunn/Hover?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-
-[Demo](http://ianlunn.github.io/Hover)  |
-[Tutorial](http://ianlunn.co.uk/articles/hover-css-tutorial-introduction/)
 
 ## Download/Install
 
 - NPM: `npm install --save hover.css`
 - Bower: `bower install Hover`
-- [Download Zip](https://github.com/IanLunn/Hover/archive/master.zip)
+- [Download Zip](https://github.com/adrik11134/cssanimation/archive/master.zip)
 
 ## How To Use
 Hover.css can be used in a number of ways; either copy and paste the effect you'd like to use in your own stylesheet or reference the stylesheet. Then just add the class name of the effect to the element you'd like it applied to.
@@ -242,25 +237,16 @@ Hover.css is open source, and made available under a [MIT License](http://www.op
 
 Retaining the author information at the top of `css/hover.css` and placing it on your credits page or humans.txt is much appreciated.
 
-## Hire Ian Lunn
+## Hire Adrik Rodchenko
 
-[Ian Lunn](http://ianlunn.co.uk) is a Freelance Front-end Developer and author of [CSS3 Foundations](http://css3foundations.com/).
+Adrik Rodchenko is a Freelance Front-end Developer and author of [CSS3 Foundations](http://css3foundations.com/).
 
-Hire [Ian](http://ianlunn.co.uk) for responsive websites, WordPress websites, JavaScript, animation, and optimization.
+Hire Adrik Rodchenko for responsive websites, WordPress websites, JavaScript, animation, and optimization.
 
 ## Support Future Development
 
-To support the future development of Hover.css and other open source projects created by [Ian Lunn](https://github.com/IanLunn), please consider making a donation.
+To support the future development of Hover.css and other open source projects created by [Adrik Rodchenko](https://github.com/adrik11134), please consider making a donation.
 
-Your donation is not-for-profit (or beer!), and will allow Ian to spend a little less time on client projects and more time supporting and creating open source software.
+Your donation is not-for-profit (or beer!), and will allow Adrik to spend a little less time on client projects and more time supporting and creating open source software.
 
 Thank you.
-
-**Bitcoin:**
-
-Bitcoin donations may be sent to the following address:
-
-<div style="text-align: center;">
-<a href="bitcoin:1KEbFvcXL8m6LogG2wjSUFz2xH6PeN6jRd?label=Hover.css%20Development"><img src="http://ianlunn.co.uk/images/btc-donate.jpg" /></a>
-<p>1KEbFvcXL8m6LogG2wjSUFz2xH6PeN6jRd</p>
-</div>
